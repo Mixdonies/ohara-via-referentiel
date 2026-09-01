@@ -1,2 +1,2 @@
 # ohara-via-referentiel
-facultatif mais utile, un rappel simple. Tu peux mettre quelque chose comme "Référentiel de contenu (fiches) pour l'app Ohara Via — hébergement public du fichier de mise à jour différentielle".
+pas indispensable pour ce cas d'usage (personne d'autre que ton app ne va lire ce dépôt), mais ça ne coûte rien de le cocher — ça affiche juste une page d'accueil basique sur GitHub. Tu peux cocher ou non, aucune conséquence technique.
