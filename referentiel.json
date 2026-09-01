@@ -1,0 +1,114 @@
+{
+  "fiches": [
+    {
+      "id": "hemorragie-externe",
+      "titre": "Hémorragie externe (fiche d'exemple)",
+      "categorie": "Circulatoire",
+      "domaine": "PSE1",
+      "niveauProfondeur": "urgence",
+      "versionReferentiel": "Exemple de démonstration — non lié à une version réelle du référentiel",
+      "dateMiseAJour": "2026-08-28",
+      "contenu": {
+        "resume": "Fiche factice de démonstration — contenu non validé médicalement, à remplacer avant toute mise en production.",
+        "gestesCles": [
+          "[Placeholder] Geste essentiel 1",
+          "[Placeholder] Geste essentiel 2",
+          "[Placeholder] Geste essentiel 3"
+        ],
+        "pointsVigilance": ["[Placeholder] Point de vigilance à ne pas oublier"],
+        "sections": []
+      }
+    },
+    {
+      "id": "brulures",
+      "titre": "Brûlures (fiche d'exemple)",
+      "categorie": "Traumatologie",
+      "domaine": "PSE1",
+      "niveauProfondeur": "urgence",
+      "versionReferentiel": "Exemple de démonstration — non lié à une version réelle du référentiel",
+      "dateMiseAJour": "2026-08-28",
+      "contenu": {
+        "resume": "Fiche factice de démonstration — contenu non validé médicalement, à remplacer avant toute mise en production.",
+        "gestesCles": [
+          "[Placeholder] Geste essentiel 1",
+          "[Placeholder] Geste essentiel 2"
+        ],
+        "pointsVigilance": ["[Placeholder] Point de vigilance à ne pas oublier"],
+        "sections": []
+      }
+    },
+    {
+      "id": "etouffement",
+      "titre": "Étouffement — obstruction des voies aériennes (fiche d'exemple)",
+      "categorie": "Respiratoire",
+      "domaine": "PSE1",
+      "niveauProfondeur": "urgence",
+      "versionReferentiel": "Exemple de démonstration — non lié à une version réelle du référentiel",
+      "dateMiseAJour": "2026-08-28",
+      "contenu": {
+        "resume": "Fiche factice de démonstration — contenu non validé médicalement, à remplacer avant toute mise en production.",
+        "gestesCles": [
+          "[Placeholder] Geste essentiel 1",
+          "[Placeholder] Geste essentiel 2",
+          "[Placeholder] Geste essentiel 3"
+        ],
+        "pointsVigilance": ["[Placeholder] Point de vigilance à ne pas oublier"],
+        "sections": []
+      }
+    },
+    {
+      "id": "malaise-perte-connaissance",
+      "titre": "Malaise avec perte de connaissance (fiche d'exemple)",
+      "categorie": "Neurologique",
+      "domaine": "PSE1",
+      "niveauProfondeur": "memento",
+      "versionReferentiel": "Exemple de démonstration — non lié à une version réelle du référentiel",
+      "dateMiseAJour": "2026-08-28",
+      "contenu": {
+        "resume": "Fiche factice de démonstration — contenu non validé médicalement, à remplacer avant toute mise en production.",
+        "gestesCles": [
+          "[Placeholder] Geste essentiel 1",
+          "[Placeholder] Geste essentiel 2"
+        ],
+        "pointsVigilance": ["[Placeholder] Point de vigilance à ne pas oublier"],
+        "sections": [
+          {
+            "titre": "[Placeholder] Section de détail 1",
+            "paragraphes": [
+              "Paragraphe de démonstration, sans valeur médicale, destiné uniquement à tester l'affichage du niveau \"mémento\"."
+            ]
+          },
+          {
+            "titre": "[Placeholder] Section de détail 2",
+            "paragraphes": [
+              "Second paragraphe de démonstration, pour vérifier l'affichage de plusieurs sections."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "traumatisme-membre",
+      "titre": "Traumatisme de membre (fiche d'exemple)",
+      "categorie": "Traumatologie",
+      "domaine": "PSE1",
+      "niveauProfondeur": "memento",
+      "versionReferentiel": "Exemple de démonstration — non lié à une version réelle du référentiel",
+      "dateMiseAJour": "2026-08-28",
+      "contenu": {
+        "resume": "Fiche factice de démonstration — contenu non validé médicalement, à remplacer avant toute mise en production.",
+        "gestesCles": [
+          "[Placeholder] Geste essentiel 1",
+          "[Placeholder] Geste essentiel 2"
+        ],
+        "pointsVigilance": ["[Placeholder] Point de vigilance à ne pas oublier"],
+        "sections": [
+          {
+            "titre": "[Placeholder] Section de détail",
+            "paragraphes": ["Paragraphe de démonstration, sans valeur médicale."]
+          }
+        ]
+      }
+    }
+  ]
+}
