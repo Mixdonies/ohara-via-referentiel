@@ -1,0 +1,10 @@
+{
+  "format": "ohara_via_codes_formateur",
+  "version": 1,
+  "centres": {
+    "CIS Saint-Etienne": [
+      "2984bfb5f191e158c76e68a6b23948a51177a992fae88687783c440b83633758",
+      "78e4502c074923b8c78c9164d0a2782d9e83160799d5cdf292c83626f4832889"
+    ]
+  }
+}
