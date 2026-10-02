@@ -1,6 +1,6 @@
 {
   "enveloppe": "ohara_via_signature",
   "version": 1,
-  "signature": "34f525a36fcf25afdc0a1a04fc619ea6e10d46c006cd6fe9f22e5033aad5d66e491fea407e22d2ff0b0d688c30db6d03b5d352b691d40b5b9a57302d442ce106",
-  "texteSigne": "{\"format\":\"ohara_via_recapitulatif\",\"version\":1,\"cle\":\"principale\",\"compteur\":1,\"signeLe\":\"2026-09-30T12:02:36Z\",\"contenu\":{\"numero\":2,\"fichier\":\"contenu-2.json\",\"empreinte\":\"4081677fcb122661f21f53a182c3ec560ce6381348785fb6c2e888d16b6bedfa\",\"taille\":548655},\"formateurs\":{\"fichier\":\"formateurs-e644322f04e42159.json\",\"empreinte\":\"e644322f04e421591d9fcb863c8f50773416d72bc08174c5f6f0bfbc6f408d67\",\"taille\":489}}"
+  "signature": "34571ec737fa650bac70b1e42e00c65ff9ea00ba2663bbd8ed1f6b873c1469e48b5c00668df2c0e1cd34cd1a3322a76cdc7c5709ad3aee9793f1d83ebe52460b",
+  "texteSigne": "{\"format\":\"ohara_via_recapitulatif\",\"version\":1,\"cle\":\"principale\",\"compteur\":2,\"signeLe\":\"2026-10-02T18:18:42Z\",\"contenu\":{\"numero\":3,\"fichier\":\"contenu-3.json\",\"empreinte\":\"251ed91f06380bfb5f51da68853ed67f07bf400b7b423f7f106116bd1ecb4037\",\"taille\":549745},\"formateurs\":{\"fichier\":\"formateurs-e644322f04e42159.json\",\"empreinte\":\"e644322f04e421591d9fcb863c8f50773416d72bc08174c5f6f0bfbc6f408d67\",\"taille\":489}}"
 }
