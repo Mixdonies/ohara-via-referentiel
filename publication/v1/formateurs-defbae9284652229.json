@@ -1,0 +1,30 @@
+{
+  "format": "ohara_via_codes_formateur",
+  "version": 3,
+  "centres": {
+    "CIS Saint-Etienne": [
+      {
+        "sel": "ba01bad0c0bf8f769f53aa28f1d42149",
+        "repetitions": 40000,
+        "empreinte": "ddc2bca97145ed133f6f7671e41036d795e0d809a397575dd1050df7932f9a8d"
+      },
+      {
+        "sel": "9197976b81c3772f4303763b9bcb01ee",
+        "repetitions": 40000,
+        "empreinte": "05b878af2493bdc852017220cfd4f317fb8d24a13ed023d9f1b063913a31e0dd"
+      }
+    ]
+  },
+  "jsp": {
+    "2026-2027": {
+      "sel": "5ab2c7fc1007df1c3dbf3e2d6cefbc6f",
+      "repetitions": 40000,
+      "centres": {
+        "CIS Saint-Etienne": [
+          "85de7c6dcdaa8f53b5205129344a8919acaec03b43f5385ecb54127292c3c22a",
+          "ed9c1e3c2c1cd9d06fb67144c69296aeb4eafeda837e325d907d50a1fa63dc8c"
+        ]
+      }
+    }
+  }
+}
